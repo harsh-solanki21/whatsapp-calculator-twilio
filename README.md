@@ -29,11 +29,9 @@
 - I will try to upgrade this project in the future and will make it more strong in terms of features and functionalities.
 
 
-
-# Application Demo
-- WhatsApp
+# WhatsApp Calculator Demo
 https://user-images.githubusercontent.com/52111635/145723482-619f1377-8fec-4a1d-9323-c897f4682415.mp4
 
-- Server Side (Receives request from user)
+# Server Side Demo (Receives request from user)
 https://user-images.githubusercontent.com/52111635/145723541-1a19f0d4-cafe-4df8-a379-7e8af3201dd6.mp4
 
