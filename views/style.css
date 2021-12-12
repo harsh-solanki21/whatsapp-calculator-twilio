@@ -1,0 +1,43 @@
+body {
+  background-color: powderblue;
+}
+
+.main {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.hack {
+  text-transform: uppercase;
+  color: rgb(27, 0, 180);
+  font-size: 90px;
+  font-family: roboto condensed;
+  font-weight: 700;
+  line-height: 90px;
+  -webkit-text-stroke: 0.5px black;
+}
+
+img {
+  width: 800px;
+  height: auto;
+}
+
+.title {
+  text-transform: uppercase;
+  color: red;
+  font-size: 50px;
+  font-family: roboto condensed;
+  font-weight: 700;
+  line-height: 90px;
+}
+
+.project {
+  text-transform: uppercase;
+  color: #25d366;
+  font-size: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-weight: 700;
+  line-height: 90px;
+  -webkit-text-stroke: 0.5px green;
+}
